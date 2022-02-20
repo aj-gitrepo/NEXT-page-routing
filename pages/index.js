@@ -7,3 +7,5 @@ const HomePage = () => {
 }
 
 export default HomePage;
+
+// http://localhost:3000/
